@@ -1,0 +1,5 @@
+a = float(input())
+x = round(a * 4,2) 
+y = round(a**2, 2)
+z = round((2*a)**0.5, 2)
+print(x, y, z)
